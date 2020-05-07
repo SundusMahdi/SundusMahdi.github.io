@@ -1,0 +1,60 @@
+body {
+		background-image: url(../images/WebsiteHomeB.jpg);
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-attachment: fixed;
+}
+
+a {
+    color: #ffc107;
+}
+
+a:hover {
+    color: darkgoldenrod;
+}
+
+.half-tp {
+	background-color: rgba(0,0,0,.5);
+	border-radius: 15px 15px 0px 0px;
+}
+
+a.icon {
+    color: white;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    width: 100px;
+}
+
+nav a.navbar-brand {
+    font-family: 'Palanquin Dark';
+    margin-right: 0;
+}
+
+.blog-post p {
+    margin-bottom: 0;
+}
+
+.blog-post .bp-date {
+    color: #bbbbbb;
+    font-family: 'Montserrat';
+}
+
+.blog-post .bp-title {
+    font-size: 1.8em;
+    font-family: 'Raleway';
+}
+
+
+.education p {
+    margin-bottom: 0;
+}
+
+.education .ed-title {
+    font-size: 1.2em;
+}
+
+.color-grey {
+    color: #aaaaaa;
+}
